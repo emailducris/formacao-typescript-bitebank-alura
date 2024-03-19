@@ -14,3 +14,6 @@ O projeto contará com o desenvolvimento de:
 - Métodos estáticos;
 - Herança de classes;
 - Decorators de validação.
+
+#
+![image](https://github.com/emailducris/formacao-typescript-bitebank-alura/assets/90730383/8703079f-609b-4399-ac69-d4c49cd08c21)
